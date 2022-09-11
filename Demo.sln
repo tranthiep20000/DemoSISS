@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Demo", "Demo\Demo.dtproj", "{CECB7ABB-DBB6-4952-B038-FC252D64ABA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Azure|Default = Azure|Default
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CECB7ABB-DBB6-4952-B038-FC252D64ABA9}.Azure|Default.ActiveCfg = Azure
+		{CECB7ABB-DBB6-4952-B038-FC252D64ABA9}.Azure|Default.Build.0 = Azure
+		{CECB7ABB-DBB6-4952-B038-FC252D64ABA9}.Development|Default.ActiveCfg = Development
+		{CECB7ABB-DBB6-4952-B038-FC252D64ABA9}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF075B3D-501D-443C-89A8-3DF3135A2BB8}
+	EndGlobalSection
+EndGlobal
